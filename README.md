@@ -6,18 +6,13 @@ I created this to improve my skills and also to keep all my work in one place.
 
 ## Projects
 
-### 1. Sales Analysis
-- Analyzed sales data to find trends and patterns
-- Used Python (Pandas, Matplotlib)
-- Used tools like (power bi, tableau)
-- Found insights like top products, monthly sales trends
+# 1-> Hotel Data Analysis
 
-### 2. Customer Segmentation
-- Grouped customers based on behavior
-- Used clustering techniques
-- Helps in understanding different types of customers
+This is my first data analytics project where I analyzed hotel booking data.
 
-(More projects will be added soon)
+I worked on understanding key metrics like revenue, occupancy, ADR, RevPAR and other performance indicators used in the hotel industry.
+
+* click on project 1 for more details.
 
 ## Tools I Used
 - Python
