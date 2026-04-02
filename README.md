@@ -12,7 +12,7 @@ This is my first data analytics project where I analyzed hotel booking data.
 
 I worked on understanding key metrics like revenue, occupancy, ADR, RevPAR and other performance indicators used in the hotel industry.
 
-* click on project 1 for more details.
+* click on the respective folders to see project.
 
 ## Tools I Used
 - Python
