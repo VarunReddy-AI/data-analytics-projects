@@ -6,7 +6,7 @@ I created this to improve my skills and also to keep all my work in one place.
 
 ## Projects
 
-# 1-> Hotel Data Analysis
+# 1-> Hospitality Analytics
 
 This is my first data analytics project where I analyzed hotel booking data.
 
