@@ -39,4 +39,4 @@ I created an interactive Power BI dashboard showing:
 - Power BI
 - Excel / CSV dataset
 
-![Dashboard](dashboard.png)
+!(Dashboard.png)
